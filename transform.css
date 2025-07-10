@@ -1,0 +1,12 @@
+.one:hover{
+    background-color: chocolate;
+    transform:rotate(45deg);
+}
+.two:hover{
+    background-color: aqua;
+    transform:scale(2);
+}
+.three:hover{
+    background-color: bisque;
+    transform:skew(30deg);
+}
